@@ -3,7 +3,7 @@
 
 [Click Me!]( https://kaplanh.github.io/google-Landing-page/)
 
-![google landing page](https://github.com/kaplanh/Google-Landing-Page-with-Flex/assets/101884444/c497f557-b8d6-41b0-94ab-146664ff589b)
+![qrcode](https://github.com/kaplanh/qr-code-component-main/assets/101884444/fc14c1eb-1904-41ef-b4d8-8ece16b230c7)
 
 
 ## Description
