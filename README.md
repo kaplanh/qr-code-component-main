@@ -1,7 +1,7 @@
 
 ## Project-003 : Google Landing Page
 
-[Click Me!]( https://kaplanh.github.io/google-Landing-page/)
+[Click Me!](https://kaplanh.github.io/qr-code-component-main/)
 
 ![qrcode](https://github.com/kaplanh/qr-code-component-main/assets/101884444/fc14c1eb-1904-41ef-b4d8-8ece16b230c7)
 
