@@ -1,5 +1,5 @@
 
-## Project-003 : Google Landing Page
+## Project-000 : QR-CODE CARD
 
 [Click Me!](https://kaplanh.github.io/qr-code-component-main/)
 
